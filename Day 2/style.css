@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    padding: 20px 36px;
+    border-radius: 8px;
+    background-color: orange;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    user-select: none;
+    font-size: 32px;
+    font-weight: 400px;
+    color: #FFF;    
+}   
