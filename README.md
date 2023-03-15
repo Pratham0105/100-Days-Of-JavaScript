@@ -17,3 +17,5 @@ Day 6 => Quote Generator Using HTML5, CSS3, Bootstrap, JavaScript
 Day 7 => Expend Card Using HTML5, CSS3, JavaScript
 
 Day 8 => Newsletter PopUp Using HTML5, CSS3, JavaScript
+
+Day 9 => Live Character Counter Using HTML5, CSS3, JavaScript
