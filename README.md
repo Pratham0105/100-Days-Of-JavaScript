@@ -17,3 +17,17 @@ Day 6 => Quote Generator Using HTML5, CSS3, Bootstrap, JavaScript
 Day 7 => Expend Card Using HTML5, CSS3, JavaScript
 
 Day 8 => Newsletter PopUp Using HTML5, CSS3, JavaScript
+
+Day 9 => Live Character Counter Using HTML5, CSS3, JavaScript
+
+Day 10 => Image Slider Using HTML5, CSS3, JavaScript
+
+Day 11 => Weight Converter Using HTML5, CSS3, JavaScript
+
+Day 12 => calculator Using HTML5, CSS3, JavaScript
+
+Day 13 => Today Web Using HTML5, CSS3, JavaScript
+
+Day 14 => Timer Using HTML5, CSS3, JavaScript
+
+Day 15 => Add To Cart Animation Using HTML5, CSS3, JavaScript
