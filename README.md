@@ -41,3 +41,9 @@ Day 18 => Digital Clock Using HTML5, CSS3, JavaScript
 Day 19 => BMI Calculator Using HTML5, CSS3, JavaScript
 
 Day 20 => CSS Changer Using HTML5, CSS3, JavaScript
+
+Day 21 => Stop Watch Using HTML5, CSS3, JavaScript
+
+Day 22 => Testimonials Using HTML5, CSS3, Jquery, JavaScript
+
+Day 23 => 3D Card Using HTML5, CSS3, JavaScript
