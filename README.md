@@ -31,3 +31,13 @@ Day 13 => Today Web Using HTML5, CSS3, JavaScript
 Day 14 => Timer Using HTML5, CSS3, JavaScript
 
 Day 15 => Add To Cart Animation Using HTML5, CSS3, JavaScript
+
+Day 16 => Zoom In-Out Using HTML5, CSS3, JavaScript
+
+Day 17 => Massege Using HTML5, CSS3, JavaScript
+
+Day 18 => Digital Clock Using HTML5, CSS3, JavaScript
+
+Day 19 => BMI Calculator Using HTML5, CSS3, JavaScript
+
+Day 20 => CSS Changer Using HTML5, CSS3, JavaScript
