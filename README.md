@@ -55,3 +55,5 @@ Day 25 => Cursor Animation using HTML5, CSS3, JavaScript
 Day 26 => Text Animation using HTML5, CSS3, JavaScript
 
 Day 27 => Long Shadow Animation using HTML5, CSS3, JavaScript
+
+Day 28 => Background Animation using HTML5, CSS3, JavaScript
