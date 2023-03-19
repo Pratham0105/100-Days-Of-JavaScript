@@ -3,6 +3,8 @@
 In this repository I have done 100 mini projects of JavaScript with in 10 days. 
 
 Day 1 => Tip Calculator Using HTML5, CSS3, JavaScript.
+View Project :- https://pratham0105.github.io/Tip-Calculator/
+
 
 Day 2 => Background Color Changer Using HTML5, CSS3, JavaScript
 
@@ -49,3 +51,11 @@ Day 22 => Testimonials Using HTML5, CSS3, Jquery, JavaScript
 Day 23 => 3D Card Using HTML5, CSS3, JavaScript
 
 Day 24 => Image PopUp using HTML5, CSS3, JavaScript
+
+Day 25 => Cursor Animation using HTML5, CSS3, JavaScript
+
+Day 26 => Text Animation using HTML5, CSS3, JavaScript
+
+Day 27 => Long Shadow Animation using HTML5, CSS3, JavaScript
+
+Day 28 => Background Animation using HTML5, CSS3, JavaScript
