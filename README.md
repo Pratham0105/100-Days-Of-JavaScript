@@ -49,3 +49,5 @@ Day 22 => Testimonials Using HTML5, CSS3, Jquery, JavaScript
 Day 23 => 3D Card Using HTML5, CSS3, JavaScript
 
 Day 24 => Image PopUp using HTML5, CSS3, JavaScript
+
+Day 25 => Cursor Animation using HTML5, CSS3, JavaScript
