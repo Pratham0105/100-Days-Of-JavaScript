@@ -59,3 +59,7 @@ Day 26 => Text Animation using HTML5, CSS3, JavaScript
 Day 27 => Long Shadow Animation using HTML5, CSS3, JavaScript
 
 Day 28 => Background Animation using HTML5, CSS3, JavaScript
+
+Day 29 => Cursor Following Eyes Animation Using HTML5, CSS3, JavaScript
+
+Day 30 => Stay Blessed Animation Using HTML5, CSS3, JavaScript
