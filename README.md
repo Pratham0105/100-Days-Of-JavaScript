@@ -19,6 +19,9 @@ View Project :- https://pratham0105.github.io/Form-Validation/
 
 Day 4 => JavaScript Digit Counter Using HTML5, CSS3, JavaScript
 
+View Projects :- https://pratham0105.github.io/JavaScript-Counter/
+
+
 Day 5 => Analog Clock Using HTML5, CSS3, JavaScript
 
 Day 6 => Quote Generator Using HTML5, CSS3, Bootstrap, JavaScript
