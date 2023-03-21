@@ -75,3 +75,5 @@ Day 29 => Cursor Following Eyes Animation Using HTML5, CSS3, JavaScript
 Day 30 => Stay Blessed Animation Using HTML5, CSS3, JavaScript
 
 Day 31 => Spotlight Using HTML5, CSS3, JavaScript
+
+Day 32 => Scratch JavaScript Using HTML5, CSS3, JavaScript
