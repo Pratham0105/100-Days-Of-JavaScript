@@ -86,3 +86,6 @@ View Project :- https://pratham0105.github.io/Scratch-JavaScript/
 Day 33 => Accordion Using HTML CSS and JavaScript       
 
 View Projects => https://pratham0105.github.io/Accordion/
+
+
+Day 34 => Parallalx Animation Using HTML CSS JavaScript       
