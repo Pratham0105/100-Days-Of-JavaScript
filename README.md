@@ -24,6 +24,9 @@ View Projects :- https://pratham0105.github.io/JavaScript-Counter/
 
 Day 5 => Analog Clock Using HTML5, CSS3, JavaScript
 
+View Project :- https://pratham0105.github.io/Analog-Clock-2.O/
+
+
 Day 6 => Quote Generator Using HTML5, CSS3, Bootstrap, JavaScript
 
 Day 7 => Expend Card Using HTML5, CSS3, JavaScript
