@@ -82,3 +82,7 @@ View Project :- https://pratham0105.github.io/Spotlight/
 Day 32 => Scratch JavaScript Using HTML5, CSS3, JavaScript
 
 View Project :- https://pratham0105.github.io/Scratch-JavaScript/
+
+Day 33 => Accordion Using HTML CSS and JavaScript       
+
+View Projects => https://pratham0105.github.io/Accordion/
