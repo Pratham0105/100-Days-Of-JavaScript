@@ -24,6 +24,9 @@ View Projects :- https://pratham0105.github.io/JavaScript-Counter/
 
 Day 5 => Analog Clock Using HTML5, CSS3, JavaScript
 
+View Project :- https://pratham0105.github.io/Analog-Clock-2.O/
+
+
 Day 6 => Quote Generator Using HTML5, CSS3, Bootstrap, JavaScript
 
 Day 7 => Expend Card Using HTML5, CSS3, JavaScript
@@ -86,3 +89,10 @@ View Project :- https://pratham0105.github.io/Scratch-JavaScript/
 Day 33 => Accordion Using HTML CSS and JavaScript       
 
 View Projects => https://pratham0105.github.io/Accordion/
+
+
+Day 34 => Parallalx Animation Using HTML CSS JavaScript     
+
+View Project :- https://pratham0105.github.io/Parallalx-Animation/
+
+
